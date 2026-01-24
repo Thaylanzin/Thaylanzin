@@ -1,4 +1,4 @@
-# Olá, sou Thaylan Ferreira! 👋
+# Olá, sou Thaylan Ferreira!
 
 Sou Desenvolvedor focado no ecossistema **Node.js**, atuando na criação de **APIs**, **Sites** e **Bots para Discord**.
 
