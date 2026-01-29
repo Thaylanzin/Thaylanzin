@@ -10,10 +10,10 @@ Na **TKS Services**, utilizo essa versatilidade para conectar diferentes platafo
 
 ### ⚡ Perfil Profissional
 
-* 💼 **Atuação:** Desenvolvimento Web, APIs e Automação na TKS Services.
+* 💼 **Atuação:** Desenvolvimento Web, APIs e soluções de automação na TKS Services.
 * 🎯 **Metodologia:** Código limpo, arquitetura escalável e foco na experiência do usuário.
-* 🚀 **Especialidade:** Criação de ecossistemas conectados (Site + API + Bot).
-* 📚 **Aprendizado Contínuo:** Aprofundando conhecimentos em microserviços e novas tecnologias.
+* 🚀 **Especialidade:** Criação de ecossistemas conectados (Site + API + Bot) com integrações eficientes.
+* 📚 **Aprendizado Contínuo:** Aprofundando conhecimentos em microserviços e tecnologias modernas.
 
 ---
 
