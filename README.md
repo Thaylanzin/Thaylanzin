@@ -46,4 +46,4 @@ Na **TKS Services**, utilizo essa versatilidade para conectar diferentes platafo
 Estou disponível para desenvolvimento de sistemas web, APIs e automações.
 
 - **Discord:** [discord.gg/yecHh7bfxU](https://discord.gg/yecHh7bfxU)
-- **TKS Services:** [Em Breve]
+- **TKS Services:** [tks-services.vercel.app/](https://tks-services.vercel.app/)
